@@ -20,6 +20,10 @@ public class DriverClass {
 
 		System.out.println();
 
+		System.out.println("The order of construction is as follows: ");
+
+		System.out.println();
+
 		FloorSize obj = new FloorSize();
 		obj.floorSize(arr);
 
